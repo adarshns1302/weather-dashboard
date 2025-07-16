@@ -2,7 +2,7 @@
 
 An interactive and visually engaging **Weather Dashboard** powered by **Power BI**, utilizing **real-time weather data** fetched through a reliable weather API. This project displays detailed weather insights such as temperature, AQI, forecast trends, and rain probabilities for multiple cities in an intuitive and clean layout.
 
-![Weather Dashboard Preview](./Screenshot%202025-07-17%20043232.png)
+![Weather Dashboard Preview](./Screenshot%202025-07-17%20043216.png)
 ---
 
 ## 🔍 Features
